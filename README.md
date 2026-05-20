@@ -55,9 +55,11 @@ admin.site.register(FoodApp, FoodAppAdmin)
 
 ## OUTPUT
 
-![alt text](image.png)
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 100106" src="https://github.com/user-attachments/assets/473fa204-9954-4888-923f-32e74020132d" />
 
-![alt text](image-1.png)
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-20 100239" src="https://github.com/user-attachments/assets/5e8e498d-4be1-4133-812d-47444e2e5183" />
+
 
 
 ## RESULT
